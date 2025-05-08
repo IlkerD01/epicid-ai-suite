@@ -1,29 +1,35 @@
 
-# EpicID AI Suite
+# 🧠 EpicID AI Suite
 
-Welkom bij de EpicID AI Suite: een verzameling krachtige GPT-tools gericht op e-commerce, automatisering en contentcreatie.
+Welcome to the **EpicID AI Suite**, a collection of premium AI-powered tools designed for e-commerce automation, content generation, SEO, and social media management.
 
-## 🧠 Tools Overzicht
+## ✨ What's Included
 
-- **Shopify SEO Assistant** – Genereer automatisch SEO-teksten voor je producten
-- **Social Media Auto-Poster** – AI posts voor je Facebook en Instagram
-- **Profitable Product Finder** – Vind trending producten met hoge marge
-- **AI Blog Generator** – SEO-blogs met interne links naar jouw webshop
+- 🛍️ **Shopify SEO Assistant** – Generate product titles & descriptions based on trending keywords.
+- 📅 **Social Media Auto-Poster** – Auto-generate & schedule posts from product data.
+- 💸 **Profitable Product Finder** – Discover high-margin products from AliExpress & more.
+- 📝 **AI Blog Generator** – Create SEO blog articles with internal product links.
 
-## 📦 Installatie (optioneel lokaal)
+## 💰 Pricing & Plans (Coming Soon)
+
+| Plan         | Price        | Features                                      |
+|--------------|--------------|-----------------------------------------------|
+| Free Trial   | €0 (7 days)  | Access to all tools with limited usage        |
+| Basic        | €9.99/month  | All tools, standard limits                    |
+| Pro          | €19.99/month | All tools, priority processing, bonus modules |
+
+## 🚀 Live Preview
+
+Check the live version on GitHub Pages:  
+[https://IlkerD01.github.io/epicid-ai-suite/](https://IlkerD01.github.io/epicid-ai-suite/)
+
+## 📦 Local Installation (Optional)
 
 ```bash
-git clone https://github.com/jouwgebruikersnaam/epicid-ai-suite.git
+git clone https://github.com/IlkerD01/epicid-ai-suite.git
 cd epicid-ai-suite
 open index.html
 ```
 
-## 🌍 Live versie
-
-De site is live via **GitHub Pages**:
-
-```
-https://jouwgebruikersnaam.github.io/epicid-ai-suite/
-```
-
-Vervang `jouwgebruikersnaam` door je GitHub gebruikersnaam.
+## 📄 License
+MIT – Free to use, modify, and build on.
