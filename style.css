@@ -1,50 +1,28 @@
-
 body {
-  background-color: #111;
-  color: #f5f5f5;
+  background-color: #0e0e0e;
+  color: #f0f0f0;
   font-family: 'Segoe UI', sans-serif;
 }
-.hero {
-  background: linear-gradient(135deg, #000000, #1a1a1a);
-  padding: 100px 20px;
-  text-align: center;
-}
-.hero h1 {
+.text-gold {
   color: gold;
-  font-size: 3rem;
 }
-.hero p {
-  font-size: 1.2rem;
-  color: #ccc;
-}
-.btn-gold {
+.btn-gold, .btn-outline-gold {
   background-color: gold;
   color: black;
   border: none;
 }
-.btn-gold:hover {
-  background-color: #d4af37;
+.btn-outline-gold {
+  background-color: transparent;
+  border: 2px solid gold;
+  color: gold;
 }
-.section {
-  padding: 60px 20px;
+.btn-outline-gold:hover {
+  background-color: gold;
+  color: black;
 }
-.tool-card {
-  background-color: #1e1e1e;
-  border: 1px solid #333;
-  border-radius: 10px;
-  padding: 20px;
-  margin-bottom: 30px;
+.border-gold {
+  border: 1px solid gold;
 }
-.pricing-card {
+.card {
   background-color: #1a1a1a;
-  border: 1px solid #444;
-  border-radius: 10px;
-  padding: 30px;
-  color: #f0f0f0;
-}
-footer {
-  background-color: #000;
-  color: #888;
-  text-align: center;
-  padding: 20px 0;
 }
